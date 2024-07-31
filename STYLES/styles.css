@@ -311,6 +311,9 @@ footer {
 
 @media screen and (min-width:352px) and (max-width:480px) {
 
+    .seccion1 {
+        height: 70vh;
+    }
     .seccion1 aside {
         background-image: none;
     }
