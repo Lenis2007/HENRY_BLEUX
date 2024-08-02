@@ -309,10 +309,10 @@ footer {
 }
 
 
-@media screen and (min-width:352px) and (max-width:480px) {
+@media  (max-width:480px) {
 
     .seccion1 {
-        height: 70vh;
+        height: 40vh;
     }
     .seccion1 aside {
         background-image: none;
@@ -463,6 +463,10 @@ footer {
         width: 100%;
     }
 
+    .seccion1 {
+        height: 50vh;
+    }
+
     .seccion1 aside {
         display: none;
     }
@@ -595,6 +599,10 @@ footer {
 
 @media screen and (min-width:769px) and (max-width:920px) {
 
+    .seccion1 {
+        height: 50vh;
+    }
+
     .sec1 {
         width: 55%;
     }
@@ -650,7 +658,7 @@ footer {
 @media screen and (min-width:921px) and (max-width:1279px) {
     
     .seccion1 {
-        height: 110vh;
+        height: 50vh;
     }
     .sec1 {
         width: 55%;
@@ -664,6 +672,7 @@ footer {
     .celular {
         margin-left: 50px;
         margin-top: 10%;
+        height: 80%;
     }
     
     .botones {
