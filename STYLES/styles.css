@@ -312,7 +312,7 @@ footer {
 @media  (max-width:480px) {
 
     .seccion1 {
-        height: 40vh;
+        height: 50vh;
     }
     .seccion1 aside {
         background-image: none;
