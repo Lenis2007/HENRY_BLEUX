@@ -313,9 +313,9 @@ footer {
 
 @media  (max-width:480px) {
 
-    .seccion1 {
+    /* .seccion1 {
         height: 57vh;
-    }
+    } */
     .seccion1 aside {
         background-image: none;
     }
@@ -466,9 +466,9 @@ footer {
         width: 100%;
     }
 
-    .seccion1 {
+    /* .seccion1 {
         height: 50vh;
-    } 
+    }  */
 
     .seccion1 aside {
         display: none;
@@ -602,9 +602,9 @@ footer {
 
 @media screen and (min-width:769px) and (max-width:920px) {
 
-    .seccion1 {
+    /* .seccion1 {
         height: 50vh;
-    }
+    } */
 
     .sec1 {
         width: 55%;
@@ -661,9 +661,9 @@ footer {
 
 @media screen and (min-width:921px) and (max-width:1279px) {
     
-    .seccion1 {
+    /* .seccion1 {
         height: 60vh;
-    }
+    } */
     .sec1 {
         width: 55%;
     }
